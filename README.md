@@ -1,4 +1,4 @@
-![anime-dance](https://tenor.com/vJ4cYq5VCRm.gif)
+![anime-dance](https://media1.tenor.com/m/-1hXFtOBJX4AAAAC/shigure-ui-dance.gif)
 # RizfanCSS 🎨
 
 Modern CSS Utilities with Beautiful Glass Effects
