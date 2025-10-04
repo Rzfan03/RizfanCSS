@@ -1,0 +1,23 @@
+{
+  "name": "rizfancss",
+  "version": "1.0.0",
+  "description": "made beutifull and fast website with RizfanCSS",
+  "keywords": [
+    "RizfanCSS"
+  ],
+  "homepage": "https://github.com/Rzfan03/RizfanCSS#readme",
+  "bugs": {
+    "url": "https://github.com/Rzfan03/RizfanCSS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rzfan03/RizfanCSS.git"
+  },
+  "license": "ISC",
+  "author": "Rizqy Fajrul Syabani",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
