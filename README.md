@@ -17,3 +17,7 @@ Modern CSS Utilities with Beautiful Glass Effects
 ```
 
 note : next nya aku bakal bikin website buat RizfanCSS ini, nanti aku bakal kasih tau full cara pake nya di websitenya.
+<br>
+<br>
+
+masih banyak fitur yg kurang, sabar ya guys nanti aku tambahin kok :)
