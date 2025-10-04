@@ -1,4 +1,4 @@
-![alt text](https://tenor.com/view/shigure-ui-dance-ui-mama-ui-shigure-vtuber-gif-18111321657019803006)
+![anime-dance](https://tenor.com/vJ4cYq5VCRm.gif)
 # RizfanCSS 🎨
 
 Modern CSS Utilities with Beautiful Glass Effects
